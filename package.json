@@ -1,6 +1,6 @@
 {
-  "name": "lifecycle",
-  "version": "0.0.0-monorepo",
+  "name": "midway",
+  "version": "1.0.0",
   "scripts": {
     "postversion": "node ./write.js"
   },
