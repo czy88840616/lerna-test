@@ -1,8 +1,8 @@
 {
   "name": "package-2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
-    "package-1": "^1.0.4"
+    "package-1": "^1.0.5"
   },
   "scripts": {
     "prepublish": "echo prepublish-package-2"
