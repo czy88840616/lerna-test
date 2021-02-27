@@ -4,7 +4,7 @@
   "scripts": {
     "postversion": "node ./write.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "lerna": "^3.22.1"
   }
 }
