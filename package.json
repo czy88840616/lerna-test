@@ -4,7 +4,7 @@
   "scripts": {
     "preversion": "echo preversion-root",
     "version": "echo version-root",
-    "postversion": "echo postversion-root",
+    "postversion": "node ./write.js",
     "prepublish": "echo prepublish-root",
     "prepare": "echo prepare-root",
     "prepublishOnly": "echo prepublishOnly-root",
